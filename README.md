@@ -1,3 +1,3 @@
 # Synopsis
 
-This folder contains my synopsis and my thought on writing it.
+This folder contains my synopsis and my thoughts on writing it.

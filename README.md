@@ -1,3 +1,3 @@
 # Synopsis
 
-Check out the PDF file
+This folder contains my synopsis and my thought on writing it.
